@@ -1,1 +1,2 @@
 this is 3rd line change from gitbash
+this is a new line change from git bash using vi command
